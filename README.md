@@ -3,7 +3,11 @@
 This is a webpage for a musical festival
 
 It has:
-       ## main page
-       ## countdown
-       ## map
-       ## price parts
+      
+main page
+
+countdown
+
+map
+
+price parts
